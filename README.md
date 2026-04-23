@@ -23,8 +23,11 @@ Key Achievements:
 Created scatter plots, histograms, and box plots
 Identified clear separation of Setosa species
 Performed exploratory data analysis (EDA)
-🔹 Task 2: Credit Risk Prediction
 
+
+
+
+🔹 Task 2: Credit Risk Prediction
 Objective:
 Predict whether a loan applicant will default.
 
@@ -32,7 +35,6 @@ Dataset: Loan Prediction Dataset
 Libraries: pandas, scikit-learn, seaborn
 
 Models Used:
-
 Logistic Regression
 Decision Tree
 
@@ -41,6 +43,10 @@ Results:
 Logistic Regression Accuracy: 78.86%
 Decision Tree Accuracy: 69.11%
 📌 Insight: Credit history is the strongest predictor
+
+
+
+
 🔹 Task 3: Customer Churn Prediction
 
 Objective:
@@ -67,6 +73,10 @@ Google Colab / Kaggle Notebooks
 pandas, numpy
 matplotlib, seaborn
 scikit-learn
+
+
+
+
 📁 Repository Structure
 DevelopersHub-DS-Internship/
 │
@@ -74,12 +84,19 @@ DevelopersHub-DS-Internship/
 ├── Task2_Credit_Risk_Prediction.ipynb
 ├── Task3_Customer_Churn_Prediction.ipynb
 └── README.md
+
+
+
+
 🚀 Key Learnings
 Data preprocessing and cleaning
 Exploratory Data Analysis (EDA)
 Model building and evaluation
 Feature importance analysis
 Real-world dataset handling
-📬 Contact
 
+
+
+
+📬 Contact
 If you’d like to connect or discuss this work, feel free to reach out!
