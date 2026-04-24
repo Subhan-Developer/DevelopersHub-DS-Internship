@@ -42,6 +42,7 @@ Results:
 
 Logistic Regression Accuracy: 78.86%
 Decision Tree Accuracy: 69.11%
+
 📌 Insight: Credit history is the strongest predictor
 
 
@@ -64,6 +65,7 @@ Random Forest
 Results:
 
 Random Forest Accuracy: 86.40% (Best Model)
+
 📌 Insights:
 Age is the most influential feature
 Germany shows the highest churn rate
